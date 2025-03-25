@@ -13,3 +13,4 @@ E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArc
 E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
 E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
 E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.sourcelink.json

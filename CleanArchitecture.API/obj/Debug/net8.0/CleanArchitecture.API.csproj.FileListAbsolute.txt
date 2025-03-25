@@ -37,3 +37,6 @@ E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArc
 E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.pdb
 E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.genruntimeconfig.cache
 E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.API\obj\Debug\net8.0\ref\CleanArchitecture.API.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.sourcelink.json
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.API\bin\Debug\net8.0\CleanArchitecture.API.xml
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.xml

@@ -5,6 +5,9 @@ using CleanArchitecture.Domain.Entities;
 
 namespace CleanArchitecture.API.Controllers
 {
+    /// <summary>
+    /// Controller to manage Users
+    /// </summary>
     [ApiController]
     [Route("api/users")]
     public class UserController : ControllerBase
@@ -18,6 +21,11 @@ namespace CleanArchitecture.API.Controllers
             _userRepository = userRepository;
         }
 
+        /// <summary>
+        /// Create new user
+        /// </summary>
+        /// <param name="_user">User name and email</param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<IActionResult> CreateUser(User _user)
         {
@@ -35,6 +43,10 @@ namespace CleanArchitecture.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Returns all users
+        /// </summary>
+        /// <returns>List of users</returns>
         [HttpGet]
         public async Task<IActionResult> GetUsers()
         {

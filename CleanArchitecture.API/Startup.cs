@@ -2,6 +2,7 @@ using Microsoft.OpenApi.Models;
 using CleanArchitecture.Domain.Interfaces;
 using CleanArchitecture.Infrastructure.Persistence;
 using CleanArchitecture.Application.UseCases;
+using System.Reflection;
 
 namespace CleanArchitecture.API
 {
@@ -29,6 +30,11 @@ namespace CleanArchitecture.API
                         }
                     }
                 );
+
+                // 📝 Enable Comment XML in Swagger
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
             });
 
             // Inyección de dependencias
