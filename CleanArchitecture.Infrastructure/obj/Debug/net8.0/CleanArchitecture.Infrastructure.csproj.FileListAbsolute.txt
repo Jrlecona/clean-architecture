@@ -1,0 +1,17 @@
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Application.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll

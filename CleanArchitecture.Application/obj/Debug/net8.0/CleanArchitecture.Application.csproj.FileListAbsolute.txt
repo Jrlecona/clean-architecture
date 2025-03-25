@@ -1,0 +1,15 @@
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArc.03AFA812.Up2Date
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+E:\Repos\LiteThinking\MasterMicroservicesC#.NET\CleanArchitecureExample\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll
